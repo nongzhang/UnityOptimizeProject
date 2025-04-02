@@ -1,0 +1,5 @@
+- filter=lfs diff=lfs merge=lfs -text
+Mild filter=lfs diff=lfs merge=lfs -text
+Flight.wav filter=lfs diff=lfs merge=lfs -text
+Assets/Suntail filter=lfs diff=lfs merge=lfs -text
+Village/Audio/Suntail filter=lfs diff=lfs merge=lfs -text
